@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm a React Developer
 
-<!--
-**Shobha-9/Shobha-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** specializing in **React.js** with experience in **API integration** and a strong foundation in **AI/ML concepts**. I enjoy building scalable web applications, learning new technologies, and solving real-world problems through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💻 Frontend Developer focused on **React.js**
+* 🔗 Experienced in **API Integration (REST APIs)**
+* 🤖 Basic knowledge of **Artificial Intelligence & Machine Learning**
+* 📚 Always learning and exploring new technologies
+* 🛠️ Interested in building **modern, responsive, and scalable web applications**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS / Bootstrap
+
+**Backend & APIs**
+
+* REST API Integration
+* Axios / Fetch
+
+**Tools**
+
+* Git & GitHub
+* VS Code
+* Postman
+
+**Other Skills**
+
+* Basic AI/ML Concepts
+* Problem Solving
+* Debugging
+
+---
+
+## 📌 What I'm Working On
+
+* Building modern **React applications**
+* Improving my **AI/ML knowledge**
+* Learning **advanced frontend architecture and performance optimization**
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: Add your LinkedIn here
+* Portfolio: Add your portfolio here
+
+---
+
+⭐ *Feel free to check out my repositories and connect with me!*
