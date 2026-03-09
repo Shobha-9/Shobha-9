@@ -51,20 +51,6 @@ I'm a passionate **Frontend Developer** specializing in **React.js** with experi
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add your LinkedIn here
-* Portfolio: Add your portfolio here
-
----
 
 ⭐ *Feel free to check out my repositories and connect with me!*
