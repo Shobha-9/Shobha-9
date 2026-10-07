@@ -7,8 +7,6 @@ I'm a passionate **Frontend Developer** specializing in **React.js** with experi
 ## 🚀 About Me
 
 * 💻 Frontend Developer focused on **React.js**
-* 🔗 Experienced in **API Integration (REST APIs)**
-* 🤖 Basic knowledge of **Artificial Intelligence & Machine Learning**
 * 📚 Always learning and exploring new technologies
 * 🛠️ Interested in building **modern, responsive, and scalable web applications**
 
@@ -24,10 +22,6 @@ I'm a passionate **Frontend Developer** specializing in **React.js** with experi
 * CSS3
 * Tailwind CSS / Bootstrap
 
-**Backend & APIs**
-
-* REST API Integration
-* Axios / Fetch
 
 **Tools**
 
