@@ -40,7 +40,6 @@ I'm a passionate **Frontend Developer** specializing in **React.js** with experi
 ## 📌 What I'm Working On
 
 * Building modern **React applications**
-* Improving my **AI/ML knowledge**
 * Learning **advanced frontend architecture and performance optimization**
 
 ---
