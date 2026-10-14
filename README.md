@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a React Developer
 
-I'm a passionate React.js Developer skilled in building responsive, user-friendly, and dynamic web applications. I have experience with React.js, JavaScript, API integration, HTML, and CSS, and a strong understanding of reusable components and state management. I enjoy writing clean, maintainable code, learning new technologies, and creating seamless user experiences.
+I'm a passionate React.js Developer skilled in building responsive, user-friendly, and dynamic web applications. I have experience with React.js, JavaScript, HTML, and CSS, and a strong understanding of reusable components and state management. I enjoy writing clean, maintainable code, learning new technologies, and creating seamless user experiences.
 
 ---
 
