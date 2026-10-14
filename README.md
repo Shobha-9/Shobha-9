@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a React Developer
 
-I'm a passionate **Frontend Developer** specializing in **React.js** with experience in **API integration** and a strong foundation in **AI/ML concepts**. I enjoy building scalable web applications, learning new technologies, and solving real-world problems through code.
+I'm a passionate React.js Developer skilled in building responsive, user-friendly, and dynamic web applications. I have experience with React.js, JavaScript, API integration, HTML, and CSS, and a strong understanding of reusable components and state management. I enjoy writing clean, maintainable code, learning new technologies, and creating seamless user experiences.
 
 ---
 
